@@ -1,0 +1,34 @@
+body {
+    background-image: url("3.jpg");
+    background-size: cover;
+}
+
+.B {
+    color:red;
+    font-family: "Pacifico", serif;
+}
+
+.A {
+    color: black;
+    font-family: "Lobster", serif;
+}
+
+.C {
+    color: red;
+    font-family: "Pacifico", serif;
+}
+
+.D {
+    color: red;
+    font-family: "Lobster", serif;
+}
+
+.E {
+    color: black;
+    font-family: "Lobster", serif;
+}
+ .Client {
+    color: red;
+    font-family: "Pacifico", serif;
+    font-weight: 400;
+ }
